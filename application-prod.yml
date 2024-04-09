@@ -1,8 +1,4 @@
-spring:
-  application:
-     name:config-prod
-    
-    # Eureka client configuration
+ # Eureka client configuration
     discovery:
       client:
         prefer-ip-address: true
